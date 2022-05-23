@@ -9,6 +9,6 @@
 
 function descendingOrder(n){
    return +n.toString().split('').sort((b,a) => a-b).join('')
-  }
+}
 
-console.log(descendingOrder(42145))
+// console.log(descendingOrder(42145))
