@@ -19,4 +19,4 @@ function getSum(a, b){
     return sum
 }
 
-console.log(getSum(-1, -1))
+// console.log(getSum(-1, -1))
