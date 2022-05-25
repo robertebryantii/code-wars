@@ -18,5 +18,5 @@ function sumDigPow(a, b){
    return result
 }
 
-console.log(sumDigPow(1, 100))
+// console.log(sumDigPow(1, 100))
   
