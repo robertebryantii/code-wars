@@ -13,7 +13,7 @@ function abbrevName(name){
     return (nameArr[0][0] + '.' + nameArr[1][0]).toUpperCase();
 }
 
-console.log(abbrevName('John smith'))
+// console.log(abbrevName('John smith'))
 
 
 
